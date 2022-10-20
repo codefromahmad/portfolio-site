@@ -9,7 +9,7 @@ const Home = () => {
       name="home"
       className="md:h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
     >
-      <div className="max-w-screen-lg mx-auto md:mx-10 flex flex-col items-center justify-center h-full px-4 md:flex-row">
+      <div className="max-w-screen-lg mx-auto lg:mx-auto md:mx-10 flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full mx-auto pt-28 sm:pt-22">
           <h2 className="text-white text-4xl sm:text-7xl font-bold text-center md:text-start">
             I am a Full Stack Developer!
